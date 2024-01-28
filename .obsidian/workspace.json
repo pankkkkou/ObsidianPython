@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Начало работы в Git.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,7 +35,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,6 +81,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4c9493789f0bd9a7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -101,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Начало работы в Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Начало работы в Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +147,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/Начало работы в Git.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "8afc6ddfc7a1d437",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +175,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "53b010e7d35042e0",
+  "active": "d7adf8029f184078",
   "lastOpenFiles": [
     "README.md",
+    "Git/Начало работы в Git.md",
     "untitled folder",
     "Первая программа с CV.md",
-    "Git/Начало работы в Git.md",
     "Ai/Как импортировать библиотеку CV.md",
     "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
     "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
