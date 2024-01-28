@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5c5290f1dd9511fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b49f779a1293281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cafecf351fb27951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Начало работы в Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c243ee8f6020ee91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7adf8029f184078",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c130f78a7a95e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed663d6713f72e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b010e7d35042e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "546229238d0a7e00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0212017717a2e6aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "069833f31a99b624",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da846558c727980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95862d3b3a168d5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Начало работы в Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3adbe91515890c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Начало работы в Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d77b8a1bbf399d14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f68869ddd781842",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Начало работы в Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "53b010e7d35042e0",
+  "lastOpenFiles": [
+    "Первая программа с CV.md",
+    "Git/Начало работы в Git.md",
+    "Ai/Как импортировать библиотеку CV.md",
+    "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
+    "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
+    "Git/Как добавить файл в Гит Репоситорий.md",
+    "База/Import.md",
+    "База/Pip.md",
+    "База/Def.md",
+    "Алгоритмы/Бинарный поиск.md",
+    "Алгоритмы/Алгоритмы которые я знаю.md",
+    "База/Импорт ( import ).md",
+    "База/Переменная.md",
+    "Без названия",
+    "Ai",
+    "Git/Команды Git/git add ..md",
+    "Git/Команды Git/git add file_name.md",
+    "База",
+    "Задачи с CodeWars",
+    "2024-01-18.md",
+    "Git/Команды Git",
+    "Git/Команды Git/git init ().md",
+    "Git/Команды Git/git status.md",
+    "Git/Команды Git/git push.md",
+    "Git",
+    "Алгоритмы",
+    "Без названия.canvas",
+    "Welcome.md"
+  ]
+}
