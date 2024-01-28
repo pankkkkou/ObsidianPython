@@ -23,8 +23,12 @@
             "id": "c243ee8f6020ee91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ai/Первая программа с CV.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -48,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +195,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "103991b3806dad9f",
+  "active": "c243ee8f6020ee91",
   "lastOpenFiles": [
+    "Алгоритмы/Бинарный поиск.md",
+    "Ai/Первая программа с CV.md",
     "Ai/Как импортировать библиотеку CV.md",
     "README.md",
-    "Ai/Первая программа с CV.md",
     "Без названия.md",
     "Git/Начало работы в Git.md",
     "untitled folder",
@@ -206,7 +211,6 @@
     "База/Import.md",
     "База/Pip.md",
     "База/Def.md",
-    "Алгоритмы/Бинарный поиск.md",
     "Алгоритмы/Алгоритмы которые я знаю.md",
     "База/Импорт ( import ).md",
     "База/Переменная.md",
