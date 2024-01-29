@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "cvtColor",
+      "path": "OpenCV/Функции OpenCV/cvtColor.md"
+    },
+    {
+      "basename": "COLOR_BGR2GRAY",
+      "path": "COLOR_BGR2GRAY.md"
+    },
+    {
+      "basename": "resize",
+      "path": "OpenCV/Функции OpenCV/resize.md"
+    },
+    {
+      "basename": "blur",
+      "path": "OpenCV/Функции OpenCV/blur.md"
+    },
+    {
       "basename": "Первая программа с CV",
-      "path": "Ai/Первая программа с CV.md"
+      "path": "OpenCV/Первая программа с CV.md"
     },
     {
-      "basename": "Бинарный поиск",
-      "path": "Алгоритмы/Бинарный поиск.md"
+      "basename": "set",
+      "path": "OpenCV/Функции OpenCV/set.md"
     },
     {
-      "basename": "Как импортировать библиотеку CV",
-      "path": "Ai/Как импортировать библиотеку CV.md"
+      "basename": "Как добавить файл в  Git Hub",
+      "path": "Git/Как добавить файл в  Git Hub.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Как импортировать библиотеку CV",
+      "path": "OpenCV/Как импортировать библиотеку CV.md"
+    },
+    {
+      "basename": "Бинарный поиск",
+      "path": "Алгоритмы/Бинарный поиск.md"
     }
   ],
   "omittedPaths": [],

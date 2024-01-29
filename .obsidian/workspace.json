@@ -8,51 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cafecf351fb27951",
+            "id": "0278eb36aee9f2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c243ee8f6020ee91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ai/Первая программа с CV.md",
+                "file": "OpenCV/Функции OpenCV/cvtColor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7adf8029f184078",
+            "id": "ed2cafce9fe21a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COLOR_BGR2GRAY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec5454e2432b969",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "103991b3806dad9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ai/Первая программа с CV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ai/Первая программа с CV.md",
+                "file": "OpenCV/Функции OpenCV/cvtColor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ai/Первая программа с CV.md",
+                "file": "OpenCV/Функции OpenCV/cvtColor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ai/Первая программа с CV.md"
+                "file": "OpenCV/Функции OpenCV/cvtColor.md"
               }
             }
           },
@@ -183,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,26 +183,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c243ee8f6020ee91",
+  "active": "0278eb36aee9f2ce",
   "lastOpenFiles": [
-    "Алгоритмы/Бинарный поиск.md",
-    "Ai/Первая программа с CV.md",
-    "Ai/Как импортировать библиотеку CV.md",
+    "COLOR_BGR2GRAY.md",
+    "OpenCV/Функции OpenCV/cvtColor.md",
+    "OpenCV/Функции OpenCV/resize.md",
+    "OpenCV/Функции OpenCV/blur.md",
+    "OpenCV/Первая программа с CV.md",
+    "OpenCV/Функции OpenCV/set.md",
+    "Git/Как добавить файл в  Git Hub.md",
     "README.md",
-    "Без названия.md",
+    "OpenCV/Функции OpenCV",
+    "OpenCV/Как импортировать библиотеку CV.md",
+    "Ai/Как импортировать библиотеку CV.md",
+    "OpenCV",
+    "Ai/Первая программа с CV.md",
+    "Алгоритмы/Бинарный поиск.md",
     "Git/Начало работы в Git.md",
     "untitled folder",
     "Первая программа с CV.md",
     "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
     "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
-    "Git/Как добавить файл в Гит Репоситорий.md",
+    "Git/Как добавить файл в  Git Hub.md",
     "База/Import.md",
     "База/Pip.md",
     "База/Def.md",
     "Алгоритмы/Алгоритмы которые я знаю.md",
     "База/Импорт ( import ).md",
     "База/Переменная.md",
-    "Без названия",
     "Ai",
     "Git/Команды Git/git add ..md",
     "Git/Команды Git/git add file_name.md",
@@ -222,12 +218,8 @@
     "Задачи с CodeWars",
     "2024-01-18.md",
     "Git/Команды Git",
-    "Git/Команды Git/git init ().md",
-    "Git/Команды Git/git status.md",
-    "Git/Команды Git/git push.md",
     "Git",
     "Алгоритмы",
-    "Без названия.canvas",
-    "Welcome.md"
+    "Без названия.canvas"
   ]
 }
