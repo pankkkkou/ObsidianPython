@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "cvtColor",
-      "path": "OpenCV/Функции OpenCV/cvtColor.md"
+      "basename": "Boolean (bool)",
+      "path": "База/Type data in python/Boolean (bool).md"
+    },
+    {
+      "basename": "Dictionary (dict)",
+      "path": "База/Type data in python/Dictionary (dict).md"
+    },
+    {
+      "basename": "Floating point (float)",
+      "path": "База/Type data in python/Floating point (float).md"
+    },
+    {
+      "basename": "Integer (int)",
+      "path": "База/Type data in python/Integer (int).md"
+    },
+    {
+      "basename": "List (list)",
+      "path": "База/Type data in python/List (list).md"
+    },
+    {
+      "basename": "Set (set)",
+      "path": "База/Type data in python/Set (set).md"
+    },
+    {
+      "basename": "String (str)",
+      "path": "База/Type data in python/String (str).md"
+    },
+    {
+      "basename": "Tuple (tup)",
+      "path": "База/Type data in python/Tuple (tup).md"
+    },
+    {
+      "basename": "Типы данных в питоне",
+      "path": "База/Типы данных в питоне.md"
+    },
+    {
+      "basename": "set in CV",
+      "path": "OpenCV/Функции OpenCV/set in CV.md"
     },
     {
       "basename": "COLOR_BGR2GRAY",
-      "path": "COLOR_BGR2GRAY.md"
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
+    },
+    {
+      "basename": "Первая программа с CV",
+      "path": "OpenCV/Первая программа с CV.md"
+    },
+    {
+      "basename": "cvtColor",
+      "path": "OpenCV/Функции OpenCV/cvtColor.md"
     },
     {
       "basename": "resize",
@@ -15,14 +59,6 @@
     {
       "basename": "blur",
       "path": "OpenCV/Функции OpenCV/blur.md"
-    },
-    {
-      "basename": "Первая программа с CV",
-      "path": "OpenCV/Первая программа с CV.md"
-    },
-    {
-      "basename": "set",
-      "path": "OpenCV/Функции OpenCV/set.md"
     },
     {
       "basename": "Как добавить файл в  Git Hub",
