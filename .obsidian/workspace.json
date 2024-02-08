@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2b49f779a1293281",
+        "id": "03f733e8d516a56b",
         "type": "tabs",
         "children": [
           {
-            "id": "80b80fbb2967302b",
+            "id": "05c8c28052cb7d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База/Type data in python/Boolean (bool).md",
+                "file": "OpenCV/Функции OpenCV/blur.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35945548273b951f",
+            "id": "37fe2ab724a91625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База/Type data in python/Set (set).md",
+                "file": "База/Type data in python/Tuple (tup).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.5
   },
   "right": {
     "id": "069833f31a99b624",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База/Type data in python/Boolean (bool).md",
+                "file": "OpenCV/Функции OpenCV/blur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База/Type data in python/Boolean (bool).md",
+                "file": "OpenCV/Функции OpenCV/blur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База/Type data in python/Boolean (bool).md"
+                "file": "OpenCV/Функции OpenCV/blur.md"
               }
             }
           },
@@ -176,24 +175,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "80b80fbb2967302b",
+  "active": "05c8c28052cb7d38",
   "lastOpenFiles": [
-    "База/Type data in python/Dictionary (dict).md",
-    "База/Type data in python/Floating point (float).md",
-    "База/Type data in python/Integer (int).md",
-    "База/Type data in python/List (list).md",
-    "База/Type data in python/Set (set).md",
-    "База/Type data in python/String (str).md",
-    "База/Type data in python/Tuple (tup).md",
-    "База/Type data in python/Boolean (bool).md",
-    "База/Типы данных в питоне.md",
-    "База/Type data in python",
-    "OpenCV/Функции OpenCV/set in CV.md",
     "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
-    "OpenCV/Первая программа с CV.md",
     "OpenCV/Функции OpenCV/cvtColor.md",
     "OpenCV/Функции OpenCV/resize.md",
+    "OpenCV/Функции OpenCV/set in CV.md",
     "OpenCV/Функции OpenCV/blur.md",
+    "База/Type data in python/Type data in python.canvas",
+    "Testing/Assertions.md",
+    "База/Type data in python/Tuple (tup).md",
+    "База/Type data in python/String (str).md",
+    "База/Type data in python/Set (set).md",
+    "База/Type data in python/List (list).md",
+    "База/Type data in python/Integer (int).md",
+    "База/Type data in python/Floating point (float).md",
+    "База/Type data in python/Dictionary (dict).md",
+    "База/Type data in python/Boolean (bool).md",
+    "База/Type data in python/Type data in python.md",
+    "Testing",
+    "База/Переменная.md",
+    "База/Type data in python",
+    "OpenCV/Первая программа с CV.md",
     "Git/Как добавить файл в  Git Hub.md",
     "README.md",
     "OpenCV/Функции OpenCV",
@@ -205,15 +208,10 @@
     "Git/Начало работы в Git.md",
     "untitled folder",
     "Первая программа с CV.md",
-    "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
-    "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
-    "Git/Как добавить файл в  Git Hub.md",
     "Ai",
     "База",
     "Задачи с CodeWars",
     "Git/Команды Git",
-    "Git",
-    "Алгоритмы",
-    "Без названия.canvas"
+    "Git"
   ]
 }

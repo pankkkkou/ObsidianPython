@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "Import, Pip, ",
+      "query": "path:\"База/Type data in python\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14048348
       }
     }
   ],
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1.39867852290972,
   "lineSizeMultiplier": 2.56543164134865,
   "collapse-forces": false,
-  "centerStrength": 0.58509324441151,
-  "repelStrength": 14.1120167963443,
-  "linkStrength": 0,
+  "centerStrength": 0.307779947916667,
+  "repelStrength": 11.884765625,
+  "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.9982132279030697,
+  "scale": 1.0657527870813464,
   "close": true
 }
