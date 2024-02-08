@@ -1,0 +1,1 @@
+## Checks that: bool(x) is True 

@@ -18,20 +18,27 @@
       "query": "path:\"База/Type data in python\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Testing/Unit test\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65297
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.39867852290972,
-  "lineSizeMultiplier": 2.56543164134865,
-  "collapse-forces": false,
-  "centerStrength": 0.307779947916667,
-  "repelStrength": 11.884765625,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.91591021365938,
+  "lineSizeMultiplier": 1.04904594294183,
+  "collapse-forces": true,
+  "centerStrength": 0.418580955909596,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 255,
-  "scale": 1.0657527870813464,
+  "linkDistance": 500,
+  "scale": 0.45003078417869036,
   "close": true
 }

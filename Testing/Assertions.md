@@ -19,3 +19,10 @@ assert 2 + 2 == 5
 assert 2 + 2 == 5, '2 + 2 = 4. Remember that'
 ```
 И при исполнении этого кода будет выходить следующее (AssertionError: 2 + 2 = 4. Remember that)2
+
+С помощью команды в терминале 
+```
+python3 -O name_file.py
+```
+Можно обойти assertion. 
+
