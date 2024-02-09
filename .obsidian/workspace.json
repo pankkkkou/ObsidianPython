@@ -23,12 +23,24 @@
             "id": "9c03bcb300aa9cb5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы/Бинарный поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec36dd13a885461a",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,10 +180,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "53b010e7d35042e0",
+  "active": "ec36dd13a885461a",
   "lastOpenFiles": [
-    "Testing/Unit Test",
+    "Алгоритмы/Бинарный поиск.md",
+    "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
     "Testing/Unit Test/Unit test method/assertEqual(a, b) 1.md",
+    "Testing/Unit Test",
     "Testing/Unit test/assertEqual(a, b).md",
     "Testing/Unit Test/Unit test.md",
     "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
@@ -197,7 +211,6 @@
     "OpenCV/Функции OpenCV/set in CV.md",
     "База/Type data in python/Type data in python.canvas",
     "База/Type data in python/String (str).md",
-    "База/Type data in python/Set (set).md",
     "Testing",
     "База/Type data in python",
     "OpenCV/Функции OpenCV",
@@ -205,7 +218,6 @@
     "untitled folder",
     "Ai",
     "База",
-    "Задачи с CodeWars",
-    "Git/Команды Git"
+    "Задачи с CodeWars"
   ]
 }

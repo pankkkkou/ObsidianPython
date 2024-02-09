@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Бинарный поиск",
+      "path": "Алгоритмы/Бинарный поиск.md"
+    },
+    {
+      "basename": "Given the triangle of consecutive odd numbers",
+      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
+    },
+    {
       "basename": "assertEqual(a, b) 1",
       "path": "Testing/Unit Test/Unit test method/assertEqual(a, b) 1.md"
     },
@@ -135,10 +143,6 @@
     {
       "basename": "Как импортировать библиотеку CV",
       "path": "OpenCV/Как импортировать библиотеку CV.md"
-    },
-    {
-      "basename": "Бинарный поиск",
-      "path": "Алгоритмы/Бинарный поиск.md"
     }
   ],
   "omittedPaths": [],
