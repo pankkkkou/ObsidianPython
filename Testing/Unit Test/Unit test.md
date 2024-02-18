@@ -1,5 +1,5 @@
 методы:
-1. [[assertEqual(a, b) 1]]
+1. [[assertEqual(a, b)]]
 2. [[assertNotEqual(a, b)]]
 3. [[assertTrue (x)]]
 4. [[assertFalse (x)]]
@@ -11,6 +11,7 @@
 10. [[assertNotIn(a, b)]]
 11. [[assertIsInstance(a, b)]]
 12. [[assertNotIsInstance(a, b)]]
-
+13. [[assertRaises]]
 
 Ссылка для ознакомления: https://docs.python.org/3/library/unittest.html
+

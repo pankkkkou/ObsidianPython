@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "93acf1786e449670",
+        "id": "b063712a7caec4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c5d576567d8a47f9",
+            "id": "73ca8a619a1b2679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Unit Test/Unit test method/assertEqual(a, b) 1.md",
+                "file": "Testing/Unit Test/Unit test method/assertRaises.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c03bcb300aa9cb5",
+            "id": "4a30f336bb5732c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы/Бинарный поиск.md",
+                "file": "OpenCV/Как импортировать библиотеку CV.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ec36dd13a885461a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "assertRaises",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OpenCV/Как импортировать библиотеку CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OpenCV/Как импортировать библиотеку CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OpenCV/Как импортировать библиотеку CV.md"
+              }
             }
           },
           {
@@ -172,45 +168,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ec36dd13a885461a",
+  "active": "4a30f336bb5732c5",
   "lastOpenFiles": [
-    "Алгоритмы/Бинарный поиск.md",
-    "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
-    "Testing/Unit Test/Unit test method/assertEqual(a, b) 1.md",
-    "Testing/Unit Test",
-    "Testing/Unit test/assertEqual(a, b).md",
-    "Testing/Unit Test/Unit test.md",
-    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md",
-    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIn (a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsNotNone (x).md",
-    "Testing/Unit Test/Unit test method/assertIsNone (x).md",
-    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
-    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
+    "База/Import.md",
+    "Git/Начало работы в Git.md",
+    "Git/Как добавить файл в  Git Hub.md",
+    "Git/Команды Git/git push.md",
+    "Git/Команды Git/git status.md",
+    "Git/Команды Git/git init ().md",
+    "Git/Команды Git/git add file_name.md",
+    "Git/Команды Git/git add ..md",
     "Testing/Unit Test/Unit test method/assertFalse (x).md",
+    "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
+    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
+    "Testing/Unit Test/Unit test method/assertIsNotNone (x).md",
+    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
+    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
+    "Testing/Unit Test/Unit test method/assertRaises.md",
     "Testing/Unit Test/Unit test method/assertTrue (x).md",
     "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md",
-    "Testing/Unit test/assertNotEqual.md",
-    "Testing/Unit test/assertEqual.md",
-    "Testing/Unit Test/Unit test method",
-    "Testing/Assertions.md",
+    "Testing/Unit Test/Unit test method/assertIsNone (x).md",
+    "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md",
+    "Testing/Unit Test/assertIn (a, b).md",
+    "Testing/Unit Test/Unit test.md",
     "База/Type data in python/Tuple (tup).md",
-    "OpenCV/Функции OpenCV/blur.md",
-    "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
-    "OpenCV/Функции OpenCV/cvtColor.md",
-    "OpenCV/Функции OpenCV/resize.md",
-    "OpenCV/Функции OpenCV/set in CV.md",
+    "База/Type data in python/Type data in python.md",
+    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
+    "База/Переменная.md",
+    "База/Pip.md",
+    "Testing/Unit Test",
+    "Testing/Unit Test/Unit test method",
     "База/Type data in python/Type data in python.canvas",
-    "База/Type data in python/String (str).md",
     "Testing",
     "База/Type data in python",
     "OpenCV/Функции OpenCV",

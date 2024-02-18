@@ -1,56 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Бинарный поиск",
-      "path": "Алгоритмы/Бинарный поиск.md"
+      "basename": "Как импортировать библиотеку CV",
+      "path": "OpenCV/Как импортировать библиотеку CV.md"
     },
     {
-      "basename": "Given the triangle of consecutive odd numbers",
-      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
+      "basename": "Import",
+      "path": "База/Import.md"
     },
     {
-      "basename": "assertEqual(a, b) 1",
-      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b) 1.md"
+      "basename": "Начало работы в Git",
+      "path": "Git/Начало работы в Git.md"
     },
     {
-      "basename": "Unit test",
-      "path": "Testing/Unit Test/Unit test.md"
+      "basename": "Как добавить файл в  Git Hub",
+      "path": "Git/Как добавить файл в  Git Hub.md"
     },
     {
-      "basename": "assertNotIsInstance(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md"
+      "basename": "git push",
+      "path": "Git/Команды Git/git push.md"
     },
     {
-      "basename": "assertIsInstance(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md"
+      "basename": "git status",
+      "path": "Git/Команды Git/git status.md"
     },
     {
-      "basename": "assertNotIn(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertNotIn(a, b).md"
+      "basename": "git init ()",
+      "path": "Git/Команды Git/git init ().md"
     },
     {
-      "basename": "assertIn (a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIn (a, b).md"
+      "basename": "git add file_name",
+      "path": "Git/Команды Git/git add file_name.md"
     },
     {
-      "basename": "assertIsNotNone (x)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNotNone (x).md"
+      "basename": "git add .",
+      "path": "Git/Команды Git/git add ..md"
     },
     {
-      "basename": "assertIsNone (x)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNone (x).md"
+      "basename": "assertFalse (x)",
+      "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
     },
     {
-      "basename": "assertIsNot (a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNot (a, b).md"
+      "basename": "assertEqual(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
     },
     {
       "basename": "assertIs(a, b)",
       "path": "Testing/Unit Test/Unit test method/assertIs(a, b).md"
     },
     {
-      "basename": "assertFalse (x)",
-      "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
+      "basename": "assertIsNotNone (x)",
+      "path": "Testing/Unit Test/Unit test method/assertIsNotNone (x).md"
+    },
+    {
+      "basename": "assertNotIn(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertNotIn(a, b).md"
+    },
+    {
+      "basename": "assertNotIsInstance(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md"
+    },
+    {
+      "basename": "assertRaises",
+      "path": "Testing/Unit Test/Unit test method/assertRaises.md"
     },
     {
       "basename": "assertTrue (x)",
@@ -61,12 +73,76 @@
       "path": "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md"
     },
     {
-      "basename": "Assertions",
-      "path": "Testing/Assertions.md"
+      "basename": "assertIsNone (x)",
+      "path": "Testing/Unit Test/Unit test method/assertIsNone (x).md"
+    },
+    {
+      "basename": "assertIsInstance(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md"
+    },
+    {
+      "basename": "assertIn (a, b)",
+      "path": "Testing/Unit Test/assertIn (a, b).md"
+    },
+    {
+      "basename": "Unit test",
+      "path": "Testing/Unit Test/Unit test.md"
     },
     {
       "basename": "Tuple (tup)",
       "path": "База/Type data in python/Tuple (tup).md"
+    },
+    {
+      "basename": "Type data in python",
+      "path": "База/Type data in python/Type data in python.md"
+    },
+    {
+      "basename": "assertIsNot (a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIsNot (a, b).md"
+    },
+    {
+      "basename": "Переменная",
+      "path": "База/Переменная.md"
+    },
+    {
+      "basename": "Pip",
+      "path": "База/Pip.md"
+    },
+    {
+      "basename": "Def",
+      "path": "База/Def.md"
+    },
+    {
+      "basename": "Set (set)",
+      "path": "База/Type data in python/Set (set).md"
+    },
+    {
+      "basename": "List (list)",
+      "path": "База/Type data in python/List (list).md"
+    },
+    {
+      "basename": "Floating point (float)",
+      "path": "База/Type data in python/Floating point (float).md"
+    },
+    {
+      "basename": "Dictionary (dict)",
+      "path": "База/Type data in python/Dictionary (dict).md"
+    },
+    {
+      "basename": "Boolean (bool)",
+      "path": "База/Type data in python/Boolean (bool).md"
+    },
+    {
+      "basename": "Assertions",
+      "path": "Testing/Assertions.md"
+    },
+    {
+      "basename": "Бинарный поиск",
+      "path": "Алгоритмы/Бинарный поиск.md"
+    },
+    {
+      "basename": "Given the triangle of consecutive odd numbers",
+      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
     },
     {
       "basename": "blur",
@@ -97,52 +173,16 @@
       "path": "База/Type data in python/String (str).md"
     },
     {
-      "basename": "Set (set)",
-      "path": "База/Type data in python/Set (set).md"
-    },
-    {
-      "basename": "List (list)",
-      "path": "База/Type data in python/List (list).md"
-    },
-    {
       "basename": "Integer (int)",
       "path": "База/Type data in python/Integer (int).md"
-    },
-    {
-      "basename": "Floating point (float)",
-      "path": "База/Type data in python/Floating point (float).md"
-    },
-    {
-      "basename": "Dictionary (dict)",
-      "path": "База/Type data in python/Dictionary (dict).md"
-    },
-    {
-      "basename": "Boolean (bool)",
-      "path": "База/Type data in python/Boolean (bool).md"
-    },
-    {
-      "basename": "Type data in python",
-      "path": "База/Type data in python/Type data in python.md"
-    },
-    {
-      "basename": "Переменная",
-      "path": "База/Переменная.md"
     },
     {
       "basename": "Первая программа с CV",
       "path": "OpenCV/Первая программа с CV.md"
     },
     {
-      "basename": "Как добавить файл в  Git Hub",
-      "path": "Git/Как добавить файл в  Git Hub.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Как импортировать библиотеку CV",
-      "path": "OpenCV/Как импортировать библиотеку CV.md"
     }
   ],
   "omittedPaths": [],

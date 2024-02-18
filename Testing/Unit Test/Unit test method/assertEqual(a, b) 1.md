@@ -1,2 +1,0 @@
-## Checks that: a == b
-
