@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV/Как импортировать библиотеку CV.md",
+                "file": "Git/Начало работы в Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV/Как импортировать библиотеку CV.md",
+                "file": "Git/Начало работы в Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCV/Как импортировать библиотеку CV.md",
+                "file": "Git/Начало работы в Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCV/Как импортировать библиотеку CV.md"
+                "file": "Git/Начало работы в Git.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "4a30f336bb5732c5",
   "lastOpenFiles": [
-    "База/Import.md",
-    "Git/Начало работы в Git.md",
     "Git/Как добавить файл в  Git Hub.md",
+    "Git/Начало работы в Git.md",
     "Git/Команды Git/git push.md",
+    "OpenCV/Как импортировать библиотеку CV.md",
+    "База/Import.md",
     "Git/Команды Git/git status.md",
     "Git/Команды Git/git init ().md",
     "Git/Команды Git/git add file_name.md",
@@ -203,7 +204,6 @@
     "База/Type data in python/Type data in python.md",
     "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
     "База/Переменная.md",
-    "База/Pip.md",
     "Testing/Unit Test",
     "Testing/Unit Test/Unit test method",
     "База/Type data in python/Type data in python.canvas",

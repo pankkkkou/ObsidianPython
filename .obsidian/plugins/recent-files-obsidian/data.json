@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Как импортировать библиотеку CV",
-      "path": "OpenCV/Как импортировать библиотеку CV.md"
-    },
-    {
-      "basename": "Import",
-      "path": "База/Import.md"
-    },
-    {
       "basename": "Начало работы в Git",
       "path": "Git/Начало работы в Git.md"
     },
@@ -19,6 +11,14 @@
     {
       "basename": "git push",
       "path": "Git/Команды Git/git push.md"
+    },
+    {
+      "basename": "Как импортировать библиотеку CV",
+      "path": "OpenCV/Как импортировать библиотеку CV.md"
+    },
+    {
+      "basename": "Import",
+      "path": "База/Import.md"
     },
     {
       "basename": "git status",
