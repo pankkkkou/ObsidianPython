@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Первая программа с CV",
+      "path": "OpenCV/Первая программа с CV.md"
+    },
+    {
+      "basename": "blur",
+      "path": "OpenCV/Функции OpenCV/blur.md"
+    },
+    {
+      "basename": "COLOR_BGR2GRAY",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
+    },
+    {
+      "basename": "cvtColor",
+      "path": "OpenCV/Функции OpenCV/cvtColor.md"
+    },
+    {
+      "basename": "resize",
+      "path": "OpenCV/Функции OpenCV/resize.md"
+    },
+    {
+      "basename": "set in CV",
+      "path": "OpenCV/Функции OpenCV/set in CV.md"
+    },
+    {
+      "basename": "Как импортировать библиотеку CV",
+      "path": "OpenCV/Как импортировать библиотеку CV.md"
+    },
+    {
+      "basename": "Pip",
+      "path": "База/Pip.md"
+    },
+    {
       "basename": "Начало работы в Git",
       "path": "Git/Начало работы в Git.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "git push",
       "path": "Git/Команды Git/git push.md"
-    },
-    {
-      "basename": "Как импортировать библиотеку CV",
-      "path": "OpenCV/Как импортировать библиотеку CV.md"
     },
     {
       "basename": "Import",
@@ -105,10 +133,6 @@
       "path": "База/Переменная.md"
     },
     {
-      "basename": "Pip",
-      "path": "База/Pip.md"
-    },
-    {
       "basename": "Def",
       "path": "База/Def.md"
     },
@@ -145,26 +169,6 @@
       "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
     },
     {
-      "basename": "blur",
-      "path": "OpenCV/Функции OpenCV/blur.md"
-    },
-    {
-      "basename": "COLOR_BGR2GRAY",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
-    },
-    {
-      "basename": "cvtColor",
-      "path": "OpenCV/Функции OpenCV/cvtColor.md"
-    },
-    {
-      "basename": "resize",
-      "path": "OpenCV/Функции OpenCV/resize.md"
-    },
-    {
-      "basename": "set in CV",
-      "path": "OpenCV/Функции OpenCV/set in CV.md"
-    },
-    {
       "basename": "Type data in python",
       "path": "База/Type data in python/Type data in python.canvas"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "Integer (int)",
       "path": "База/Type data in python/Integer (int).md"
-    },
-    {
-      "basename": "Первая программа с CV",
-      "path": "OpenCV/Первая программа с CV.md"
     },
     {
       "basename": "README",

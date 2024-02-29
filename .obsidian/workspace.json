@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3214ea7dfd70c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV/Первая программа с CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad89b708691ef0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV/Первая программа с CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "069833f31a99b624",
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Начало работы в Git.md",
+                "file": "OpenCV/Первая программа с CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Начало работы в Git.md",
+                "file": "OpenCV/Первая программа с CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Начало работы в Git.md"
+                "file": "OpenCV/Первая программа с CV.md"
               }
             }
           },
@@ -176,12 +201,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a30f336bb5732c5",
+  "active": "53b010e7d35042e0",
   "lastOpenFiles": [
-    "Git/Как добавить файл в  Git Hub.md",
-    "Git/Начало работы в Git.md",
-    "Git/Команды Git/git push.md",
+    "OpenCV/Первая программа с CV.md",
+    "OpenCV/Функции OpenCV/blur.md",
+    "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
+    "OpenCV/Функции OpenCV/cvtColor.md",
+    "OpenCV/Функции OpenCV/resize.md",
+    "OpenCV/Функции OpenCV/set in CV.md",
     "OpenCV/Как импортировать библиотеку CV.md",
+    "База/Pip.md",
+    "Git/Начало работы в Git.md",
+    "Git/Как добавить файл в  Git Hub.md",
+    "Git/Команды Git/git push.md",
     "База/Import.md",
     "Git/Команды Git/git status.md",
     "Git/Команды Git/git init ().md",
@@ -197,13 +229,6 @@
     "Testing/Unit Test/Unit test method/assertTrue (x).md",
     "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md",
     "Testing/Unit Test/Unit test method/assertIsNone (x).md",
-    "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md",
-    "Testing/Unit Test/assertIn (a, b).md",
-    "Testing/Unit Test/Unit test.md",
-    "База/Type data in python/Tuple (tup).md",
-    "База/Type data in python/Type data in python.md",
-    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
-    "База/Переменная.md",
     "Testing/Unit Test",
     "Testing/Unit Test/Unit test method",
     "База/Type data in python/Type data in python.canvas",
