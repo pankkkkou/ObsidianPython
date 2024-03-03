@@ -1,1 +1,1 @@
-# This is my little book about my learning in python
+# This is my collection of useful material about Python programming
