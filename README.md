@@ -1,1 +1,1 @@
-# This is my littele book about my learning in python
+# This is my little book about my learning in python

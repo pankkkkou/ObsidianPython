@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b063712a7caec4c3",
+        "id": "7e57a39c5c0271bb",
         "type": "tabs",
         "children": [
           {
-            "id": "73ca8a619a1b2679",
+            "id": "1209fa0ef3f641c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Unit Test/Unit test method/assertRaises.md",
+                "file": "Testing/Assertions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a30f336bb5732c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Начало работы в Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3214ea7dfd70c89",
+            "id": "76fe607f25ef5931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +32,63 @@
             }
           },
           {
-            "id": "ad89b708691ef0c6",
+            "id": "a4ddd0100f014fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV/Первая программа с CV.md",
+                "file": "База/Def.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b2134c2742d4d5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База/Type data in python/Type data in python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dff2fd4ce9aca9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeeecd53f18cc5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Assertions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b20dd110fbb287d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "069833f31a99b624",
@@ -131,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV/Первая программа с CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCV/Первая программа с CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OpenCV/Первая программа с CV.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,44 +228,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b010e7d35042e0",
+  "active": "b20dd110fbb287d0",
   "lastOpenFiles": [
+    "Testing/Assertions.md",
+    "Testing/Unit Test/Unit test.md",
+    "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
+    "База/Type data in python/Type data in python.md",
+    "База/Type data in python/Type data in python.canvas",
+    "База/Def.md",
     "OpenCV/Первая программа с CV.md",
     "OpenCV/Функции OpenCV/blur.md",
-    "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
-    "OpenCV/Функции OpenCV/cvtColor.md",
-    "OpenCV/Функции OpenCV/resize.md",
-    "OpenCV/Функции OpenCV/set in CV.md",
-    "OpenCV/Как импортировать библиотеку CV.md",
-    "База/Pip.md",
+    "Testing/Unit Test/Unit test method/assertIn (a, b).md",
+    "Git/Команды Git/git add ..md",
+    "Git/Команды Git/git add file_name.md",
+    "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
+    "Git/Команды Git/git init ().md",
+    "Git/Команды Git/git push.md",
+    "Git/Команды Git/git status.md",
     "Git/Начало работы в Git.md",
     "Git/Как добавить файл в  Git Hub.md",
-    "Git/Команды Git/git push.md",
-    "База/Import.md",
-    "Git/Команды Git/git status.md",
-    "Git/Команды Git/git init ().md",
-    "Git/Команды Git/git add file_name.md",
-    "Git/Команды Git/git add ..md",
-    "Testing/Unit Test/Unit test method/assertFalse (x).md",
-    "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsNotNone (x).md",
-    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
-    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
     "Testing/Unit Test/Unit test method/assertRaises.md",
-    "Testing/Unit Test/Unit test method/assertTrue (x).md",
+    "База/Переменная.md",
+    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
+    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
     "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md",
+    "Testing/Unit Test/Unit test method/assertIsNotNone (x).md",
+    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
     "Testing/Unit Test/Unit test method/assertIsNone (x).md",
+    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
+    "Testing/Unit Test/Unit test method/assertFalse (x).md",
+    "Binary system",
+    "Иinary system",
     "Testing/Unit Test",
     "Testing/Unit Test/Unit test method",
-    "База/Type data in python/Type data in python.canvas",
     "Testing",
     "База/Type data in python",
     "OpenCV/Функции OpenCV",
     "OpenCV",
     "untitled folder",
-    "Ai",
-    "База",
-    "Задачи с CodeWars"
+    "Ai"
   ]
 }

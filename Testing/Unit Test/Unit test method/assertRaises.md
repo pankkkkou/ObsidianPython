@@ -19,3 +19,10 @@ def test_greet_boolean(self):
 	with self.assertRaises(ValueError):
 		main.greet('Ivan', 'Bla-bla')
 ```
+
+
+Фигурирует:
+[[Def]]
+[[String (str)]]
+[[Import]]
+[[Boolean (bool)]]

@@ -22,10 +22,24 @@
       }
     },
     {
-      "query": "path:\"Testing/Unit test\"  ",
+      "query": "path:Testing  ",
       "color": {
         "a": 1,
         "rgb": 65297
+      }
+    },
+    {
+      "query": "path:OpenCV  ",
+      "color": {
+        "a": 1,
+        "rgb": 46079
+      }
+    },
+    {
+      "query": "path:База  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
       }
     }
   ],
@@ -34,11 +48,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.91591021365938,
   "lineSizeMultiplier": 1.04904594294183,
-  "collapse-forces": true,
-  "centerStrength": 0.418580955909596,
+  "collapse-forces": false,
+  "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.48726168696336525,
-  "close": true
+  "scale": 0.30949636802103153,
+  "close": false
 }

@@ -39,3 +39,8 @@ cv2.waitKey(0)
 ```
 
 
+Фигурирует:
+[[Def]]
+[[String (str)]]
+[[Import]]
+

@@ -1,12 +1,136 @@
 {
   "recentFiles": [
     {
+      "basename": "Assertions",
+      "path": "Testing/Assertions.md"
+    },
+    {
+      "basename": "Unit test",
+      "path": "Testing/Unit Test/Unit test.md"
+    },
+    {
+      "basename": "Given the triangle of consecutive odd numbers",
+      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
+    },
+    {
+      "basename": "Type data in python",
+      "path": "База/Type data in python/Type data in python.md"
+    },
+    {
+      "basename": "Type data in python",
+      "path": "База/Type data in python/Type data in python.canvas"
+    },
+    {
+      "basename": "Set (set)",
+      "path": "База/Type data in python/Set (set).md"
+    },
+    {
+      "basename": "Def",
+      "path": "База/Def.md"
+    },
+    {
       "basename": "Первая программа с CV",
       "path": "OpenCV/Первая программа с CV.md"
     },
     {
       "basename": "blur",
       "path": "OpenCV/Функции OpenCV/blur.md"
+    },
+    {
+      "basename": "assertIn (a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIn (a, b).md"
+    },
+    {
+      "basename": "git add .",
+      "path": "Git/Команды Git/git add ..md"
+    },
+    {
+      "basename": "git add file_name",
+      "path": "Git/Команды Git/git add file_name.md"
+    },
+    {
+      "basename": "git commit -m \"Описание нашего комментария\"",
+      "path": "Git/Команды Git/git commit -m \"Описание нашего комментария\".md"
+    },
+    {
+      "basename": "git init ()",
+      "path": "Git/Команды Git/git init ().md"
+    },
+    {
+      "basename": "git push",
+      "path": "Git/Команды Git/git push.md"
+    },
+    {
+      "basename": "git status",
+      "path": "Git/Команды Git/git status.md"
+    },
+    {
+      "basename": "Начало работы в Git",
+      "path": "Git/Начало работы в Git.md"
+    },
+    {
+      "basename": "Как добавить файл в  Git Hub",
+      "path": "Git/Как добавить файл в  Git Hub.md"
+    },
+    {
+      "basename": "assertRaises",
+      "path": "Testing/Unit Test/Unit test method/assertRaises.md"
+    },
+    {
+      "basename": "assertNotIsInstance(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md"
+    },
+    {
+      "basename": "assertNotIn(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertNotIn(a, b).md"
+    },
+    {
+      "basename": "assertNotEqual(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md"
+    },
+    {
+      "basename": "assertIsNotNone (x)",
+      "path": "Testing/Unit Test/Unit test method/assertIsNotNone (x).md"
+    },
+    {
+      "basename": "assertIsNot (a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIsNot (a, b).md"
+    },
+    {
+      "basename": "assertIsNone (x)",
+      "path": "Testing/Unit Test/Unit test method/assertIsNone (x).md"
+    },
+    {
+      "basename": "assertIs(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIs(a, b).md"
+    },
+    {
+      "basename": "assertFalse (x)",
+      "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
+    },
+    {
+      "basename": "assertEqual(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
+    },
+    {
+      "basename": "Tuple (tup)",
+      "path": "База/Type data in python/Tuple (tup).md"
+    },
+    {
+      "basename": "Бинарный поиск",
+      "path": "Алгоритмы/Бинарный поиск.md"
+    },
+    {
+      "basename": "English letter in binary system",
+      "path": "Binary system/English letter in binary system.md"
+    },
+    {
+      "basename": "Number in binary system",
+      "path": "Binary system/Number in binary system.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "COLOR_BGR2GRAY",
@@ -33,112 +157,16 @@
       "path": "База/Pip.md"
     },
     {
-      "basename": "Начало работы в Git",
-      "path": "Git/Начало работы в Git.md"
-    },
-    {
-      "basename": "Как добавить файл в  Git Hub",
-      "path": "Git/Как добавить файл в  Git Hub.md"
-    },
-    {
-      "basename": "git push",
-      "path": "Git/Команды Git/git push.md"
-    },
-    {
       "basename": "Import",
       "path": "База/Import.md"
-    },
-    {
-      "basename": "git status",
-      "path": "Git/Команды Git/git status.md"
-    },
-    {
-      "basename": "git init ()",
-      "path": "Git/Команды Git/git init ().md"
-    },
-    {
-      "basename": "git add file_name",
-      "path": "Git/Команды Git/git add file_name.md"
-    },
-    {
-      "basename": "git add .",
-      "path": "Git/Команды Git/git add ..md"
-    },
-    {
-      "basename": "assertFalse (x)",
-      "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
-    },
-    {
-      "basename": "assertEqual(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
-    },
-    {
-      "basename": "assertIs(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIs(a, b).md"
-    },
-    {
-      "basename": "assertIsNotNone (x)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNotNone (x).md"
-    },
-    {
-      "basename": "assertNotIn(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertNotIn(a, b).md"
-    },
-    {
-      "basename": "assertNotIsInstance(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md"
-    },
-    {
-      "basename": "assertRaises",
-      "path": "Testing/Unit Test/Unit test method/assertRaises.md"
     },
     {
       "basename": "assertTrue (x)",
       "path": "Testing/Unit Test/Unit test method/assertTrue (x).md"
     },
     {
-      "basename": "assertNotEqual(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md"
-    },
-    {
-      "basename": "assertIsNone (x)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNone (x).md"
-    },
-    {
       "basename": "assertIsInstance(a, b)",
       "path": "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md"
-    },
-    {
-      "basename": "assertIn (a, b)",
-      "path": "Testing/Unit Test/assertIn (a, b).md"
-    },
-    {
-      "basename": "Unit test",
-      "path": "Testing/Unit Test/Unit test.md"
-    },
-    {
-      "basename": "Tuple (tup)",
-      "path": "База/Type data in python/Tuple (tup).md"
-    },
-    {
-      "basename": "Type data in python",
-      "path": "База/Type data in python/Type data in python.md"
-    },
-    {
-      "basename": "assertIsNot (a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNot (a, b).md"
-    },
-    {
-      "basename": "Переменная",
-      "path": "База/Переменная.md"
-    },
-    {
-      "basename": "Def",
-      "path": "База/Def.md"
-    },
-    {
-      "basename": "Set (set)",
-      "path": "База/Type data in python/Set (set).md"
     },
     {
       "basename": "List (list)",
@@ -157,32 +185,12 @@
       "path": "База/Type data in python/Boolean (bool).md"
     },
     {
-      "basename": "Assertions",
-      "path": "Testing/Assertions.md"
-    },
-    {
-      "basename": "Бинарный поиск",
-      "path": "Алгоритмы/Бинарный поиск.md"
-    },
-    {
-      "basename": "Given the triangle of consecutive odd numbers",
-      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
-    },
-    {
-      "basename": "Type data in python",
-      "path": "База/Type data in python/Type data in python.canvas"
-    },
-    {
       "basename": "String (str)",
       "path": "База/Type data in python/String (str).md"
     },
     {
       "basename": "Integer (int)",
       "path": "База/Type data in python/Integer (int).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

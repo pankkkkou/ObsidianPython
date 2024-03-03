@@ -18,3 +18,10 @@ def test_can_fly_eny_one_else(self):
 	self.assertFalse(main.can_fly(test_names_list[1]), 'Only, Batman have to be able to fly')
 	self.assertFalse(main.can_fly(test_names_list[2]), 'Only, Batman have to be able to fly')
 ```
+
+Фигурирует:
+[[Def]]
+[[String (str)]]
+[[Boolean (bool)]]
+[[Import]]
+
