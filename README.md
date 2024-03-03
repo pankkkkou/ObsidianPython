@@ -2,3 +2,4 @@
 ## In this collection you will find.
 - Abot Git and main git Command.
 - Framework OpenCV.
+- Testing with assert.
