@@ -4,3 +4,5 @@
 - Framework OpenCV.
 - Testing with assert.
 - Framework Unit testing framework.
+- Algorithms.
+  - `Binary Search`
