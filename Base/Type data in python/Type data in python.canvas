@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5528717be7fdadd9","type":"file","file":"Base/Type data in python/Dictionary (dict).md","x":-333,"y":680,"width":400,"height":400},
+		{"id":"81d78bcfc0f88e20","type":"file","file":"Base/Type data in python/Integer (int).md","x":-333,"y":-960,"width":400,"height":400},
+		{"id":"8fd06596bbb35219","type":"file","file":"Base/Type data in python/Floating point (float).md","x":-840,"y":-760,"width":400,"height":400},
+		{"id":"60ad83ebc03b6d1b","type":"file","file":"Base/Type data in python/Boolean (bool).md","x":180,"y":-760,"width":400,"height":400},
+		{"id":"5be616b61fdcee0a","type":"file","file":"Base/Type data in python/Set (set).md","x":380,"y":-180,"width":400,"height":400},
+		{"id":"199730bdd55721d6","type":"file","file":"Base/Type data in python/Tuple (tup).md","x":180,"y":560,"width":400,"height":400},
+		{"id":"aed56778fecb7abb","type":"file","file":"Base/Type data in python/List (list).md","x":-840,"y":560,"width":400,"height":400},
+		{"id":"9f91a0d37926cfa6","type":"file","file":"Base/Type data in python/String (str).md","x":-1040,"y":-180,"width":400,"height":400},
+		{"id":"6feba6f0b2a2a10c","type":"file","file":"Base/Type data in python/Type data in python.md","x":-333,"y":-180,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"911d4fc78352a6bb","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"aed56778fecb7abb","toSide":"top"},
+		{"id":"0d0e6d4697783c57","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"5528717be7fdadd9","toSide":"top"},
+		{"id":"a7b736ab763c4998","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"199730bdd55721d6","toSide":"top"},
+		{"id":"c6032bbf0894a8e9","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"5be616b61fdcee0a","toSide":"bottom"},
+		{"id":"f0052ee5a166f45b","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"60ad83ebc03b6d1b","toSide":"bottom"},
+		{"id":"bf78a427e83e81d8","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"81d78bcfc0f88e20","toSide":"bottom"},
+		{"id":"8c8d2a3e89c0f09f","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"8fd06596bbb35219","toSide":"bottom"},
+		{"id":"de5a512b8d32e73a","fromNode":"6feba6f0b2a2a10c","fromSide":"bottom","toNode":"9f91a0d37926cfa6","toSide":"bottom"}
+	]
+}

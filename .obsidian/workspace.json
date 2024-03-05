@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База/Def.md",
+                "file": "Base/Def.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База/Type data in python/Type data in python.md",
+                "file": "Base/Type data in python/Type data in python.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
+                "file": "Tasks from code vars/Given the triangle of consecutive odd numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testing/Assertions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testing/Assertions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testing/Assertions.md"
+              }
             }
           },
           {
@@ -228,14 +232,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b20dd110fbb287d0",
+  "active": "53b010e7d35042e0",
   "lastOpenFiles": [
     "Testing/Assertions.md",
     "Testing/Unit Test/Unit test.md",
-    "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md",
-    "База/Type data in python/Type data in python.md",
-    "База/Type data in python/Type data in python.canvas",
-    "База/Def.md",
+    "Tasks from code vars/Given the triangle of consecutive odd numbers.md",
+    "Base/Type data in python/Type data in python.md",
+    "Base/Type data in python/Type data in python.canvas",
+    "Base/Def.md",
     "OpenCV/Первая программа с CV.md",
     "OpenCV/Функции OpenCV/blur.md",
     "Testing/Unit Test/Unit test method/assertIn (a, b).md",
@@ -262,7 +266,7 @@
     "Testing/Unit Test",
     "Testing/Unit Test/Unit test method",
     "Testing",
-    "База/Type data in python",
+    "Base/Type data in python",
     "OpenCV/Функции OpenCV",
     "OpenCV",
     "untitled folder",
