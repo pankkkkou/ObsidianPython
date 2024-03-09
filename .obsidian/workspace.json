@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7e57a39c5c0271bb",
+        "id": "e6f63407c4d23e86",
         "type": "tabs",
         "children": [
           {
-            "id": "1209fa0ef3f641c4",
+            "id": "387731b3cdb9082d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Assertions.md",
+                "file": "OpenCV/CV-python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "76fe607f25ef5931",
+            "id": "6177fc5db58f1aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV/Первая программа с CV.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4ddd0100f014fdc",
+            "id": "f32d28df00fb1375",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,53 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b2134c2742d4d5e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Type data in python/Type data in python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dff2fd4ce9aca9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks from code vars/Given the triangle of consecutive odd numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeeecd53f18cc5f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Assertions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20dd110fbb287d0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Assertions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Assertions.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Assertions.md"
+                "file": "README.md"
               }
             }
           },
@@ -232,14 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b010e7d35042e0",
+  "active": "6177fc5db58f1aba",
   "lastOpenFiles": [
+    "OpenCV/Rotate.md",
+    "Base/Def.md",
+    "OpenCV/CV-python.md",
+    "OpenCV/Rotate",
     "Testing/Assertions.md",
     "Testing/Unit Test/Unit test.md",
     "Tasks from code vars/Given the triangle of consecutive odd numbers.md",
     "Base/Type data in python/Type data in python.md",
     "Base/Type data in python/Type data in python.canvas",
-    "Base/Def.md",
     "OpenCV/Первая программа с CV.md",
     "OpenCV/Функции OpenCV/blur.md",
     "Testing/Unit Test/Unit test method/assertIn (a, b).md",
@@ -259,8 +218,6 @@
     "Testing/Unit Test/Unit test method/assertIsNotNone (x).md",
     "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
     "Testing/Unit Test/Unit test method/assertIsNone (x).md",
-    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
-    "Testing/Unit Test/Unit test method/assertFalse (x).md",
     "Binary system",
     "Иinary system",
     "Testing/Unit Test",
@@ -269,7 +226,6 @@
     "Base/Type data in python",
     "OpenCV/Функции OpenCV",
     "OpenCV",
-    "untitled folder",
-    "Ai"
+    "untitled folder"
   ]
 }

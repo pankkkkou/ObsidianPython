@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Rotate",
+      "path": "OpenCV/Rotate.md"
+    },
+    {
+      "basename": "Def",
+      "path": "Base/Def.md"
+    },
+    {
+      "basename": "CV-python",
+      "path": "OpenCV/CV-python.md"
+    },
+    {
       "basename": "Assertions",
       "path": "Testing/Assertions.md"
     },
@@ -129,10 +145,6 @@
       "path": "Binary system/Number in binary system.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "COLOR_BGR2GRAY",
       "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
     },
@@ -147,10 +159,6 @@
     {
       "basename": "set in CV",
       "path": "OpenCV/Функции OpenCV/set in CV.md"
-    },
-    {
-      "basename": "Как импортировать библиотеку CV",
-      "path": "OpenCV/Как импортировать библиотеку CV.md"
     },
     {
       "basename": "Pip",
