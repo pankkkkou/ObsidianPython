@@ -38,9 +38,7 @@ cv2.imshow('Result', img)
 cv2.waitKey(0)
 ```
 
-
+---
 Фигурирует:
-[[Def]]
-[[String (str)]]
-[[Import]]
+[[OpenCV-python]]
 

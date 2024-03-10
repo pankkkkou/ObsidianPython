@@ -33,7 +33,5 @@ def multiple_words(my_srting):
 	return my_srting.title()
 ```
 
+---
 Фигурирует:
-[[Def]]
-[[String (str)]]
-[[Import]]

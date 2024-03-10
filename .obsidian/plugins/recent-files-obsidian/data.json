@@ -1,32 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "CV-python",
-      "path": "OpenCV/CV-python.md"
-    },
-    {
-      "basename": "set in CV",
-      "path": "OpenCV/Функции OpenCV/set in CV.md"
-    },
-    {
-      "basename": "Rotate",
-      "path": "OpenCV/Функции OpenCV/Rotate.md"
-    },
-    {
-      "basename": "Transform",
-      "path": "OpenCV/Функции OpenCV/Transform.md"
-    },
-    {
-      "basename": "Первая программа с CV",
-      "path": "OpenCV/Первая программа с CV.md"
+      "basename": "COLOR_BGR2LAB",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
     },
     {
       "basename": "cvtColor",
       "path": "OpenCV/Функции OpenCV/cvtColor.md"
+    },
+    {
+      "basename": "COLOR_BGR2HSV",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md"
+    },
+    {
+      "basename": "HSVChangePicture",
+      "path": "OpenCV/Функции OpenCV/HSVChangePicture.png"
     },
     {
       "basename": "COLOR_BGR2GRAY",
@@ -37,12 +25,40 @@
       "path": "OpenCV/Функции OpenCV/blur.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Read contours",
+      "path": "OpenCV/Read contours.md"
+    },
+    {
+      "basename": "OpenCV-python",
+      "path": "OpenCV/OpenCV-python.md"
+    },
+    {
+      "basename": "First program with OpenCV",
+      "path": "OpenCV/First program with OpenCV.md"
+    },
+    {
+      "basename": "Start from Base",
+      "path": "Base/Start from Base.md"
+    },
+    {
+      "basename": "Бинарный поиск",
+      "path": "Algorithms/Бинарный поиск.md"
+    },
+    {
+      "basename": "Pip",
+      "path": "Base/Pip.md"
+    },
+    {
+      "basename": "Import",
+      "path": "Base/Import.md"
     },
     {
       "basename": "Def",
       "path": "Base/Def.md"
+    },
+    {
+      "basename": "Type data in python",
+      "path": "Base/Type data in python/Type data in python.md"
     },
     {
       "basename": "Assertions",
@@ -53,60 +69,60 @@
       "path": "Testing/Unit Test/Unit test.md"
     },
     {
+      "basename": "assertFalse (x)",
+      "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
+    },
+    {
+      "basename": "assertEqual(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
+    },
+    {
       "basename": "Given the triangle of consecutive odd numbers",
-      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
+      "path": "Tasks from code vars/Given the triangle of consecutive odd numbers.md"
+    },
+    {
+      "basename": "Transform",
+      "path": "OpenCV/Функции OpenCV/Transform.md"
+    },
+    {
+      "basename": "set in CV",
+      "path": "OpenCV/Функции OpenCV/set in CV.md"
+    },
+    {
+      "basename": "Rotate",
+      "path": "OpenCV/Функции OpenCV/Rotate.md"
+    },
+    {
+      "basename": "resize",
+      "path": "OpenCV/Функции OpenCV/resize.md"
+    },
+    {
+      "basename": "Floating point (float)",
+      "path": "Base/Type data in python/Floating point (float).md"
+    },
+    {
+      "basename": "Dictionary (dict)",
+      "path": "Base/Type data in python/Dictionary (dict).md"
+    },
+    {
+      "basename": "Boolean (bool)",
+      "path": "Base/Type data in python/Boolean (bool).md"
     },
     {
       "basename": "Type data in python",
-      "path": "База/Type data in python/Type data in python.md"
+      "path": "Base/Type data in python/Type data in python.canvas"
     },
     {
-      "basename": "Type data in python",
-      "path": "База/Type data in python/Type data in python.canvas"
+      "basename": "English letter in binary system",
+      "path": "Binary system/English letter in binary system.md"
     },
     {
-      "basename": "Set (set)",
-      "path": "База/Type data in python/Set (set).md"
+      "basename": "Number in binary system",
+      "path": "Binary system/Number in binary system.md"
     },
     {
-      "basename": "Def",
-      "path": "База/Def.md"
-    },
-    {
-      "basename": "assertIn (a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIn (a, b).md"
-    },
-    {
-      "basename": "git add .",
-      "path": "Git/Команды Git/git add ..md"
-    },
-    {
-      "basename": "git add file_name",
-      "path": "Git/Команды Git/git add file_name.md"
-    },
-    {
-      "basename": "git commit -m \"Описание нашего комментария\"",
-      "path": "Git/Команды Git/git commit -m \"Описание нашего комментария\".md"
-    },
-    {
-      "basename": "git init ()",
-      "path": "Git/Команды Git/git init ().md"
-    },
-    {
-      "basename": "git push",
-      "path": "Git/Команды Git/git push.md"
-    },
-    {
-      "basename": "git status",
-      "path": "Git/Команды Git/git status.md"
-    },
-    {
-      "basename": "Начало работы в Git",
-      "path": "Git/Начало работы в Git.md"
-    },
-    {
-      "basename": "Как добавить файл в  Git Hub",
-      "path": "Git/Как добавить файл в  Git Hub.md"
+      "basename": "assertTrue (x)",
+      "path": "Testing/Unit Test/Unit test method/assertTrue (x).md"
     },
     {
       "basename": "assertRaises",
@@ -137,68 +153,52 @@
       "path": "Testing/Unit Test/Unit test method/assertIsNone (x).md"
     },
     {
-      "basename": "assertIs(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertIs(a, b).md"
-    },
-    {
-      "basename": "assertFalse (x)",
-      "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
-    },
-    {
-      "basename": "assertEqual(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
-    },
-    {
-      "basename": "Tuple (tup)",
-      "path": "База/Type data in python/Tuple (tup).md"
-    },
-    {
-      "basename": "Бинарный поиск",
-      "path": "Алгоритмы/Бинарный поиск.md"
-    },
-    {
-      "basename": "English letter in binary system",
-      "path": "Binary system/English letter in binary system.md"
-    },
-    {
-      "basename": "Number in binary system",
-      "path": "Binary system/Number in binary system.md"
-    },
-    {
-      "basename": "resize",
-      "path": "OpenCV/Функции OpenCV/resize.md"
-    },
-    {
-      "basename": "Pip",
-      "path": "База/Pip.md"
-    },
-    {
-      "basename": "Import",
-      "path": "База/Import.md"
-    },
-    {
-      "basename": "assertTrue (x)",
-      "path": "Testing/Unit Test/Unit test method/assertTrue (x).md"
-    },
-    {
       "basename": "assertIsInstance(a, b)",
       "path": "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md"
     },
     {
-      "basename": "List (list)",
-      "path": "База/Type data in python/List (list).md"
+      "basename": "assertIs(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIs(a, b).md"
     },
     {
-      "basename": "Floating point (float)",
-      "path": "База/Type data in python/Floating point (float).md"
+      "basename": "assertIn (a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertIn (a, b).md"
     },
     {
-      "basename": "Dictionary (dict)",
-      "path": "База/Type data in python/Dictionary (dict).md"
+      "basename": "image",
+      "path": "OpenCV/Функции OpenCV/image.jpg"
     },
     {
-      "basename": "Boolean (bool)",
-      "path": "База/Type data in python/Boolean (bool).md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Given the triangle of consecutive odd numbers",
+      "path": "Задачи с CodeWars/Given the triangle of consecutive odd numbers.md"
+    },
+    {
+      "basename": "Type data in python",
+      "path": "База/Type data in python/Type data in python.md"
+    },
+    {
+      "basename": "Type data in python",
+      "path": "База/Type data in python/Type data in python.canvas"
+    },
+    {
+      "basename": "Set (set)",
+      "path": "База/Type data in python/Set (set).md"
+    },
+    {
+      "basename": "Def",
+      "path": "База/Def.md"
+    },
+    {
+      "basename": "git add .",
+      "path": "Git/Команды Git/git add ..md"
+    },
+    {
+      "basename": "git add file_name",
+      "path": "Git/Команды Git/git add file_name.md"
     }
   ],
   "omittedPaths": [],

@@ -26,4 +26,7 @@ python3 -O name_file.py
 ```
 Можно обойти assertion. 
 
-связанно с [[Unit test]]
+
+---
+Фигурирует:
+[[Unit test]]

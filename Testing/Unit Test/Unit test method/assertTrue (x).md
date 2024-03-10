@@ -17,3 +17,7 @@ def test_can_fly_batman(self):
 	test_name = 'Batman'
 	self.assertTrue(main.can_fly(test_name), f'{test_name} have to be able to fly')
 ```
+
+
+---
+Фигурирует:

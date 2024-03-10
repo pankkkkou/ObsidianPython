@@ -19,8 +19,6 @@ def test_greet(self):
 	self.assertNotEqual(main.greet(test_name, test_isEnemy), f'Hello {test_name}, I will kill you bastard!')
 ```
 
+
+---
 Фигурирует:
-[[Def]]
-[[String (str)]]
-[[Import]]
-[[Boolean (bool)]]

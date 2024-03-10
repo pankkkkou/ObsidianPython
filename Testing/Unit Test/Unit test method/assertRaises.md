@@ -21,8 +21,6 @@ def test_greet_boolean(self):
 ```
 
 
+
+---
 Фигурирует:
-[[Def]]
-[[String (str)]]
-[[Import]]
-[[Boolean (bool)]]
