@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Rotate",
-      "path": "OpenCV/Rotate.md"
-    },
-    {
-      "basename": "Def",
-      "path": "Base/Def.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "CV-python",
       "path": "OpenCV/CV-python.md"
+    },
+    {
+      "basename": "set in CV",
+      "path": "OpenCV/Функции OpenCV/set in CV.md"
+    },
+    {
+      "basename": "Rotate",
+      "path": "OpenCV/Функции OpenCV/Rotate.md"
+    },
+    {
+      "basename": "Transform",
+      "path": "OpenCV/Функции OpenCV/Transform.md"
+    },
+    {
+      "basename": "Первая программа с CV",
+      "path": "OpenCV/Первая программа с CV.md"
+    },
+    {
+      "basename": "cvtColor",
+      "path": "OpenCV/Функции OpenCV/cvtColor.md"
+    },
+    {
+      "basename": "COLOR_BGR2GRAY",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
+    },
+    {
+      "basename": "blur",
+      "path": "OpenCV/Функции OpenCV/blur.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Def",
+      "path": "Base/Def.md"
     },
     {
       "basename": "Assertions",
@@ -43,14 +71,6 @@
     {
       "basename": "Def",
       "path": "База/Def.md"
-    },
-    {
-      "basename": "Первая программа с CV",
-      "path": "OpenCV/Первая программа с CV.md"
-    },
-    {
-      "basename": "blur",
-      "path": "OpenCV/Функции OpenCV/blur.md"
     },
     {
       "basename": "assertIn (a, b)",
@@ -145,20 +165,8 @@
       "path": "Binary system/Number in binary system.md"
     },
     {
-      "basename": "COLOR_BGR2GRAY",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
-    },
-    {
-      "basename": "cvtColor",
-      "path": "OpenCV/Функции OpenCV/cvtColor.md"
-    },
-    {
       "basename": "resize",
       "path": "OpenCV/Функции OpenCV/resize.md"
-    },
-    {
-      "basename": "set in CV",
-      "path": "OpenCV/Функции OpenCV/set in CV.md"
     },
     {
       "basename": "Pip",
@@ -191,14 +199,6 @@
     {
       "basename": "Boolean (bool)",
       "path": "База/Type data in python/Boolean (bool).md"
-    },
-    {
-      "basename": "String (str)",
-      "path": "База/Type data in python/String (str).md"
-    },
-    {
-      "basename": "Integer (int)",
-      "path": "База/Type data in python/Integer (int).md"
     }
   ],
   "omittedPaths": [],

@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:База  ",
+      "query": "path:Base  ",
       "color": {
         "a": 1,
         "rgb": 16711914
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6967604358047944,
+  "scale": 0.3140731196806544,
   "close": false
 }
