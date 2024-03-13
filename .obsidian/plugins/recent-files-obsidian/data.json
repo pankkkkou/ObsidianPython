@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "First program with OpenCV",
+      "path": "OpenCV/First program with OpenCV.md"
+    },
+    {
       "basename": "COLOR_BGR2LAB",
       "path": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "OpenCV-python",
       "path": "OpenCV/OpenCV-python.md"
-    },
-    {
-      "basename": "First program with OpenCV",
-      "path": "OpenCV/First program with OpenCV.md"
     },
     {
       "basename": "Start from Base",

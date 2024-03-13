@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md",
+                "file": "OpenCV/First program with OpenCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md",
+                "file": "OpenCV/First program with OpenCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md",
+                "file": "OpenCV/First program with OpenCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
+                "file": "OpenCV/First program with OpenCV.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "7769d484b17bf8ef",
   "lastOpenFiles": [
-    "OpenCV/Функции OpenCV/cvtColor.md",
     "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md",
+    "OpenCV/Функции OpenCV/cvtColor.md",
     "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md",
     "OpenCV/Функции OpenCV/HSVChangePicture.png",
     "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
