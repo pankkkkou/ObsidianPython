@@ -12,7 +12,6 @@ img = cv2.GaussianBlur(img, (9, 9), 0)
 Третьим мы указываем значение `sigma_x`
 
 ---
-Фигурирует:
-[[OpenCV-python]]
-
+# Фигурирует:
+*  Основная тема [[OpenCV-python]]
 

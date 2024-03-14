@@ -1,17 +1,20 @@
-методы:
-1. [[assertEqual(a, b)]]
-2. [[assertNotEqual(a, b)]]
-3. [[assertTrue (x)]]
-4. [[assertFalse (x)]]
-5. [[assertIs(a, b)]]
-6. [[assertIsNot (a, b)]]
-7. [[assertIsNone (x)]]
-8. [[assertIsNotNone (x)]]
-9. [[assertIn (a, b)]]
-10. [[assertNotIn(a, b)]]
-11. [[assertIsInstance(a, b)]]
-12. [[assertNotIsInstance(a, b)]]
-13. [[assertRaises]]
+## Методы:
+ * [[assertEqual(a, b)]]
+ * [[assertNotEqual(a, b)]]
+ * [[assertTrue (x)]]
+ * [[assertFalse (x)]]
+ * [[assertIs(a, b)]]
+ * [[assertIsNot (a, b)]]
+ * [[assertIsNone (x)]]
+ * [[assertIsNotNone (x)]]
+ * [[assertIn (a, b)]]
+ * [[assertNotIn(a, b)]]
+ * [[assertIsInstance(a, b)]]
+ * [[assertNotIsInstance(a, b)]]
+ * [[assertRaises]]
 
-Ссылка для ознакомления: https://docs.python.org/3/library/unittest.html
+[Ссылка для ознакомления](https://docs.python.org/3/library/unittest.html)
 
+---
+# Фигурирует:
+*  Основная тема [[OpenCV-python]]

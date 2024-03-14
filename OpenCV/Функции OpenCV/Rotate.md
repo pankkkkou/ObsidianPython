@@ -8,4 +8,5 @@ def rotate(img_param, angle):
 	return cv2.warpAffine(img_param, mat, (width, height))
 ```
 
-Фигурирует: [[OpenCV-python]]
+# Фигурирует:
+*  Основная тема [[OpenCV-python]]

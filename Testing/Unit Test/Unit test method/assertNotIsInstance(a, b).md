@@ -1,3 +1,3 @@
-## Checks that:  not isinstance(a,  b)
+## Checks that:  not is in stance(a,  b)
 ---
 Фигурирует:

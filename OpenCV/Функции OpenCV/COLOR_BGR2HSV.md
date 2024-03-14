@@ -19,4 +19,5 @@ if __name__ == '__main__':
 [Wikipedia about HSV](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDpr7CqeqEAxVlQvEDHZ7ACjMQmhN6BAhgEAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHSL_and_HSV&usg=AOvVaw1ZPPY_-vZ9sHQYhSswXtuD&opi=89978449)
 
 ---
-Фигурирует: [[OpenCV-python]]
+# Фигурирует:
+*  Основная тема [[OpenCV-python]]

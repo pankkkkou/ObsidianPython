@@ -9,4 +9,5 @@ def rotate(img_param, angle):
 ```
 
 ---
-Фигурирует:  [[OpenCV-python]]
+# Фигурирует:
+*  Основная тема [[OpenCV-python]]
