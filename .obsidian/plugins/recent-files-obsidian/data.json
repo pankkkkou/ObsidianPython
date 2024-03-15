@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Unit test",
+      "path": "Testing/Unit Test/Unit test.md"
+    },
+    {
+      "basename": "Assertions",
+      "path": "Testing/Assertions.md"
+    },
+    {
+      "basename": "OpenCV-python",
+      "path": "OpenCV/OpenCV-python.md"
+    },
+    {
+      "basename": "First program with OpenCV",
+      "path": "OpenCV/First program with OpenCV.md"
+    },
+    {
+      "basename": "Read contours",
+      "path": "OpenCV/Read contours.md"
+    },
+    {
+      "basename": "COLOR_BGR2HSV",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md"
+    },
+    {
+      "basename": "COLOR_BGR2GRAY",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
+    },
+    {
+      "basename": "COLOR_BGR2LAB",
+      "path": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
+    },
+    {
+      "basename": "cvtColor",
+      "path": "OpenCV/Функции OpenCV/cvtColor.md"
+    },
+    {
+      "basename": "HSVChangePicture",
+      "path": "OpenCV/Функции OpenCV/HSVChangePicture.png"
+    },
+    {
+      "basename": "image",
+      "path": "OpenCV/Функции OpenCV/image.jpg"
+    },
+    {
+      "basename": "resize",
+      "path": "OpenCV/Функции OpenCV/resize.md"
+    },
+    {
+      "basename": "Rotate",
+      "path": "OpenCV/Функции OpenCV/Rotate.md"
+    },
+    {
+      "basename": "set in CV",
+      "path": "OpenCV/Функции OpenCV/set in CV.md"
+    },
+    {
+      "basename": "Transform",
+      "path": "OpenCV/Функции OpenCV/Transform.md"
+    },
+    {
       "basename": "assertEqual(a, b)",
       "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
     },
@@ -49,64 +113,8 @@
       "path": "Testing/Unit Test/Unit test method/assertTrue (x).md"
     },
     {
-      "basename": "Unit test",
-      "path": "Testing/Unit Test/Unit test.md"
-    },
-    {
-      "basename": "OpenCV-python",
-      "path": "OpenCV/OpenCV-python.md"
-    },
-    {
-      "basename": "First program with OpenCV",
-      "path": "OpenCV/First program with OpenCV.md"
-    },
-    {
-      "basename": "Read contours",
-      "path": "OpenCV/Read contours.md"
-    },
-    {
       "basename": "blur",
       "path": "OpenCV/Функции OpenCV/blur.md"
-    },
-    {
-      "basename": "COLOR_BGR2GRAY",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
-    },
-    {
-      "basename": "COLOR_BGR2HSV",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md"
-    },
-    {
-      "basename": "COLOR_BGR2LAB",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
-    },
-    {
-      "basename": "cvtColor",
-      "path": "OpenCV/Функции OpenCV/cvtColor.md"
-    },
-    {
-      "basename": "HSVChangePicture",
-      "path": "OpenCV/Функции OpenCV/HSVChangePicture.png"
-    },
-    {
-      "basename": "image",
-      "path": "OpenCV/Функции OpenCV/image.jpg"
-    },
-    {
-      "basename": "resize",
-      "path": "OpenCV/Функции OpenCV/resize.md"
-    },
-    {
-      "basename": "Rotate",
-      "path": "OpenCV/Функции OpenCV/Rotate.md"
-    },
-    {
-      "basename": "set in CV",
-      "path": "OpenCV/Функции OpenCV/set in CV.md"
-    },
-    {
-      "basename": "Transform",
-      "path": "OpenCV/Функции OpenCV/Transform.md"
     },
     {
       "basename": "Start from Base",
@@ -131,10 +139,6 @@
     {
       "basename": "Type data in python",
       "path": "Base/Type data in python/Type data in python.md"
-    },
-    {
-      "basename": "Assertions",
-      "path": "Testing/Assertions.md"
     },
     {
       "basename": "Given the triangle of consecutive odd numbers",
@@ -167,10 +171,6 @@
     {
       "basename": "assertIsNone (x)",
       "path": "Testing/Unit Test/Unit test method/assertIsNone (x).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Given the triangle of consecutive odd numbers",

@@ -4,7 +4,7 @@
 
 1. Команда которую нам нужно использовать в терминале 
 
-```
+```zsh terminal
 pip3 install opencv-python
 ```
 
