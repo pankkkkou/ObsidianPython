@@ -4,47 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9d5acfbbfe5e59e9",
+        "id": "9b7f76476808fd66",
         "type": "tabs",
         "children": [
           {
-            "id": "74da499ec7aef188",
+            "id": "e048d93d1816d5e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Start from Base.md",
+                "file": "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f80777be4a1d9b8",
+            "id": "f0a77bf4944260d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV/Read contours.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7769d484b17bf8ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,36 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7769d484b17bf8ef",
+  "active": "f0a77bf4944260d7",
   "lastOpenFiles": [
+    "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
     "Testing/Unit Test/Unit test.md",
+    "Testing/Unit Test/Unit test method/assertRaises.md",
+    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
+    "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md",
+    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
+    "Testing/Unit Test/Unit test method/assertIn (a, b).md",
+    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
+    "Testing/Unit Test/Unit test method/assertIsNone (x).md",
+    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
+    "Testing/Unit Test/Unit test method/assertTrue (x).md",
+    "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md",
+    "Testing/Unit Test/Unit test method/assertFalse (x).md",
+    "Git/Как добавить файл в  Git Hub.md",
+    "Git/Команды Git/git add ..md",
+    "Git/Команды Git/git add file_name.md",
+    "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
+    "Git/Команды Git/git init ().md",
+    "Git/Команды Git/git push.md",
+    "Git/Команды Git/git status.md",
+    "Git/Начало работы в Git.md",
+    "Tasks from code vars/Given the triangle of consecutive odd numbers.md",
+    "2024-03-15.md",
+    "README.md",
     "Testing/Assertions.md",
     "OpenCV/OpenCV-python.md",
-    "OpenCV/First program with OpenCV.md",
-    "README.md",
-    "OpenCV/Read contours.md",
-    "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md",
-    "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
-    "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md",
-    "OpenCV/Функции OpenCV/cvtColor.md",
     "OpenCV/Функции OpenCV/HSVChangePicture.png",
     "OpenCV/Функции OpenCV/image.jpg",
-    "OpenCV/Функции OpenCV/resize.md",
-    "OpenCV/Функции OpenCV/Rotate.md",
-    "OpenCV/Функции OpenCV/set in CV.md",
-    "OpenCV/Функции OpenCV/Transform.md",
-    "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
-    "Testing/Unit Test/Unit test method/assertFalse (x).md",
-    "Testing/Unit Test/Unit test method/assertIn (a, b).md",
-    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsNotNone (x).md",
-    "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md",
-    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
-    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
-    "Testing/Unit Test/Unit test method/assertRaises.md",
-    "Testing/Unit Test/Unit test method/assertTrue (x).md",
     "Base/Type data in python/Type data in python.canvas",
     "OpenCV/Rotate",
     "Binary system",
