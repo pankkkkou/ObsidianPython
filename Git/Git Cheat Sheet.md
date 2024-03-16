@@ -13,6 +13,7 @@
 | [[git log]]                 | Display the entire commit history using the default format. For customisation see additional options.                                          |
 | [[git diff]]                | Show unstayed changes between your index and working directory.                                                                                |
 
+
 ## Undoing changes
 ---
 
@@ -37,8 +38,9 @@
 | Command                    | Description                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [[git branch]]             | List all of the branches in your repo. Add a branch argument to create a new branch with the name branch. |
-| [[git checkout -b branch]] | Create and check out a new branch named branch. Drop the -b flag to checkout an existing branch.          |
+| [[git checkout -b branch_name]] | Create and check out a new branch named branch. Drop the -b flag to checkout an existing branch.          |
 | [[git merge branch]]       | Merge branch into the current branch.                                                                     |
+| [[git branch]]             | Show list branch                                                                                          |
 
 ## Remote repositories
 ---

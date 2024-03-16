@@ -4,71 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9b7f76476808fd66",
+        "id": "7f1b184363b2d97a",
         "type": "tabs",
         "children": [
           {
-            "id": "e048d93d1816d5e3",
+            "id": "6d50212c75221b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "038d7ec57c94c485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Remote repositories/git push remote branch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a77bf4944260d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV/OpenCV-python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6f4ec62d051f9dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Start from Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b18b323b62ef66eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git Branches/git checkout -b branch.md",
+                "file": "Git/Remote repositories/git fetch remote branch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "3f662b6125f2b9e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c222f1d086a45ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Branches/git checkout -b branch.md",
+                "file": "Git/Remote repositories/git fetch remote branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Branches/git checkout -b branch.md",
+                "file": "Git/Remote repositories/git fetch remote branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Branches/git checkout -b branch.md"
+                "file": "Git/Remote repositories/git fetch remote branch.md"
               }
             }
           },
@@ -212,39 +181,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b18b323b62ef66eb",
+  "active": "6d50212c75221b2c",
   "lastOpenFiles": [
-    "Git/Git Branches/git branch --list.md",
-    "Git/Git Branches/git branch.md",
-    "Git/Git Basic/git status.md",
-    "Git/Git Basic/git push.md",
-    "Git/Git Basic/git log.md",
-    "Git/Undoing changes/git clean -n.md",
-    "Git/Git Cheat Sheet.md",
-    "Base/Start from Base.md",
-    "OpenCV/OpenCV-python.md",
-    "Untitled.md",
-    "Testing/Unit Test/Unit test.md",
+    "Git/Remote repositories/git remote add name url.md",
     "Git/Remote repositories/git push remote branch.md",
     "Git/Remote repositories/git pull remote.md",
     "Git/Remote repositories/git fetch remote branch.md",
-    "Git/Remote repositories/git remote add name url.md",
     "Git/Git Branches/git merge branch.md",
-    "Git/Git Branches/git checkout -b branch.md",
-    "Git/Rewriting git history/git reflog.md",
-    "Git/Rewriting git history/git rebase base.md",
-    "Git/Rewriting git history/git commit --amend.md",
-    "Git/Undoing changes/git reset file_name.md",
-    "Git/Undoing changes/git revert commit.md",
+    "Git/Git Branches/git checkout -b branch_name.md",
+    "Git/Git Cheat Sheet.md",
+    "Git/Git Branches/git branch.md",
+    "Git/Git Branches/git branch --list.md",
     "Git/Git Basic/git diff.md",
+    "Git/Git Basic/git status.md",
+    "Git/Git Basic/git push.md",
+    "Git/Git Basic/git log.md",
+    "Git/Git Basic/git init.md",
+    "Git/Git Basic/git clone.md",
+    "Git/Git Basic/git commit -m \"Message\".md",
+    "Git/Git Basic/git add file_name.md",
+    "Git/Git Basic/git add ..md",
+    "Git/Git Basic/git config user..md",
+    "Git/Как добавить файл в  Git Hub.md",
+    "Base/Start from Base.md",
+    "OpenCV/OpenCV-python.md",
+    "Git/Undoing changes/git clean -n.md",
+    "Untitled.md",
+    "Testing/Unit Test/Unit test.md",
+    "Git/Rewriting git history/git reflog.md",
     "Git/Remote repositories",
     "Git/Git Branches",
     "Git/Rewriting git history",
     "Git/Undoing changes",
     "Git/Git Basic",
-    "Git/Git Basic/git commit -m \"Message\".md",
-    "Git/Начало работы в Git.md",
-    "Git/Как добавить файл в  Git Hub.md",
     "OpenCV/Функции OpenCV/HSVChangePicture.png",
     "OpenCV/Функции OpenCV/image.jpg",
     "Base/Type data in python/Type data in python.canvas",
