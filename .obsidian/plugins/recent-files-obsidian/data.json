@@ -1,12 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "assertEqual(a, b)",
-      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
+      "basename": "git checkout -b branch",
+      "path": "Git/Git Branches/git checkout -b branch.md"
+    },
+    {
+      "basename": "git branch --list",
+      "path": "Git/Git Branches/git branch --list.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git/Git Branches/git branch.md"
+    },
+    {
+      "basename": "git status",
+      "path": "Git/Git Basic/git status.md"
+    },
+    {
+      "basename": "git push",
+      "path": "Git/Git Basic/git push.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git/Git Basic/git log.md"
+    },
+    {
+      "basename": "git clean -n",
+      "path": "Git/Undoing changes/git clean -n.md"
+    },
+    {
+      "basename": "Git Cheat Sheet",
+      "path": "Git/Git Cheat Sheet.md"
+    },
+    {
+      "basename": "Start from Base",
+      "path": "Base/Start from Base.md"
+    },
+    {
+      "basename": "OpenCV-python",
+      "path": "OpenCV/OpenCV-python.md"
     },
     {
       "basename": "Unit test",
       "path": "Testing/Unit Test/Unit test.md"
+    },
+    {
+      "basename": "git push remote branch",
+      "path": "Git/Remote repositories/git push remote branch.md"
+    },
+    {
+      "basename": "git pull remote",
+      "path": "Git/Remote repositories/git pull remote.md"
+    },
+    {
+      "basename": "git fetch remote branch",
+      "path": "Git/Remote repositories/git fetch remote branch.md"
+    },
+    {
+      "basename": "git remote add name url",
+      "path": "Git/Remote repositories/git remote add name url.md"
+    },
+    {
+      "basename": "git merge branch",
+      "path": "Git/Git Branches/git merge branch.md"
+    },
+    {
+      "basename": "git reflog",
+      "path": "Git/Rewriting git history/git reflog.md"
+    },
+    {
+      "basename": "git rebase base",
+      "path": "Git/Rewriting git history/git rebase base.md"
+    },
+    {
+      "basename": "git commit --amend",
+      "path": "Git/Rewriting git history/git commit --amend.md"
+    },
+    {
+      "basename": "git reset file_name",
+      "path": "Git/Undoing changes/git reset file_name.md"
+    },
+    {
+      "basename": "git revert commit",
+      "path": "Git/Undoing changes/git revert commit.md"
+    },
+    {
+      "basename": "git diff",
+      "path": "Git/Git Basic/git diff.md"
+    },
+    {
+      "basename": "git commit -m \"Message\"",
+      "path": "Git/Git Basic/git commit -m \"Message\".md"
+    },
+    {
+      "basename": "Начало работы в Git",
+      "path": "Git/Начало работы в Git.md"
+    },
+    {
+      "basename": "Как добавить файл в  Git Hub",
+      "path": "Git/Как добавить файл в  Git Hub.md"
+    },
+    {
+      "basename": "git add .",
+      "path": "Git/Git Basic/git add ..md"
+    },
+    {
+      "basename": "git config user.",
+      "path": "Git/Git Basic/git config user..md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git/Git Basic/git init.md"
+    },
+    {
+      "basename": "git clone",
+      "path": "Git/Git Basic/git clone.md"
+    },
+    {
+      "basename": "assertEqual(a, b)",
+      "path": "Testing/Unit Test/Unit test method/assertEqual(a, b).md"
     },
     {
       "basename": "assertRaises",
@@ -53,36 +165,8 @@
       "path": "Testing/Unit Test/Unit test method/assertFalse (x).md"
     },
     {
-      "basename": "Как добавить файл в  Git Hub",
-      "path": "Git/Как добавить файл в  Git Hub.md"
-    },
-    {
-      "basename": "git add .",
-      "path": "Git/Команды Git/git add ..md"
-    },
-    {
       "basename": "git add file_name",
-      "path": "Git/Команды Git/git add file_name.md"
-    },
-    {
-      "basename": "git commit -m \"Описание нашего комментария\"",
-      "path": "Git/Команды Git/git commit -m \"Описание нашего комментария\".md"
-    },
-    {
-      "basename": "git init ()",
-      "path": "Git/Команды Git/git init ().md"
-    },
-    {
-      "basename": "git push",
-      "path": "Git/Команды Git/git push.md"
-    },
-    {
-      "basename": "git status",
-      "path": "Git/Команды Git/git status.md"
-    },
-    {
-      "basename": "Начало работы в Git",
-      "path": "Git/Начало работы в Git.md"
+      "path": "Git/Git Basic/git add file_name.md"
     },
     {
       "basename": "Given the triangle of consecutive odd numbers",
@@ -95,10 +179,6 @@
     {
       "basename": "Assertions",
       "path": "Testing/Assertions.md"
-    },
-    {
-      "basename": "OpenCV-python",
-      "path": "OpenCV/OpenCV-python.md"
     },
     {
       "basename": "First program with OpenCV",
@@ -119,86 +199,6 @@
     {
       "basename": "COLOR_BGR2LAB",
       "path": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
-    },
-    {
-      "basename": "cvtColor",
-      "path": "OpenCV/Функции OpenCV/cvtColor.md"
-    },
-    {
-      "basename": "HSVChangePicture",
-      "path": "OpenCV/Функции OpenCV/HSVChangePicture.png"
-    },
-    {
-      "basename": "image",
-      "path": "OpenCV/Функции OpenCV/image.jpg"
-    },
-    {
-      "basename": "resize",
-      "path": "OpenCV/Функции OpenCV/resize.md"
-    },
-    {
-      "basename": "Rotate",
-      "path": "OpenCV/Функции OpenCV/Rotate.md"
-    },
-    {
-      "basename": "set in CV",
-      "path": "OpenCV/Функции OpenCV/set in CV.md"
-    },
-    {
-      "basename": "Transform",
-      "path": "OpenCV/Функции OpenCV/Transform.md"
-    },
-    {
-      "basename": "assertIsNotNone (x)",
-      "path": "Testing/Unit Test/Unit test method/assertIsNotNone (x).md"
-    },
-    {
-      "basename": "blur",
-      "path": "OpenCV/Функции OpenCV/blur.md"
-    },
-    {
-      "basename": "Start from Base",
-      "path": "Base/Start from Base.md"
-    },
-    {
-      "basename": "Бинарный поиск",
-      "path": "Algorithms/Бинарный поиск.md"
-    },
-    {
-      "basename": "Pip",
-      "path": "Base/Pip.md"
-    },
-    {
-      "basename": "Import",
-      "path": "Base/Import.md"
-    },
-    {
-      "basename": "Def",
-      "path": "Base/Def.md"
-    },
-    {
-      "basename": "Type data in python",
-      "path": "Base/Type data in python/Type data in python.md"
-    },
-    {
-      "basename": "Floating point (float)",
-      "path": "Base/Type data in python/Floating point (float).md"
-    },
-    {
-      "basename": "Dictionary (dict)",
-      "path": "Base/Type data in python/Dictionary (dict).md"
-    },
-    {
-      "basename": "Boolean (bool)",
-      "path": "Base/Type data in python/Boolean (bool).md"
-    },
-    {
-      "basename": "Type data in python",
-      "path": "Base/Type data in python/Type data in python.canvas"
-    },
-    {
-      "basename": "English letter in binary system",
-      "path": "Binary system/English letter in binary system.md"
     }
   ],
   "omittedPaths": [],

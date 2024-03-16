@@ -20,15 +20,55 @@
             }
           },
           {
+            "id": "038d7ec57c94c485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Remote repositories/git push remote branch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f0a77bf4944260d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV/OpenCV-python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6f4ec62d051f9dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Start from Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b18b323b62ef66eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Branches/git checkout -b branch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Git Branches/git checkout -b branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/Git Branches/git checkout -b branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Git Branches/git checkout -b branch.md"
+              }
             }
           },
           {
@@ -168,34 +212,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0a77bf4944260d7",
+  "active": "b18b323b62ef66eb",
   "lastOpenFiles": [
-    "Testing/Unit Test/Unit test method/assertEqual(a, b).md",
-    "Testing/Unit Test/Unit test.md",
-    "Testing/Unit Test/Unit test method/assertRaises.md",
-    "Testing/Unit Test/Unit test method/assertNotIsInstance(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsInstance(a, b).md",
-    "Testing/Unit Test/Unit test method/assertNotIn(a, b).md",
-    "Testing/Unit Test/Unit test method/assertIn (a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsNot (a, b).md",
-    "Testing/Unit Test/Unit test method/assertIsNone (x).md",
-    "Testing/Unit Test/Unit test method/assertIs(a, b).md",
-    "Testing/Unit Test/Unit test method/assertTrue (x).md",
-    "Testing/Unit Test/Unit test method/assertNotEqual(a, b).md",
-    "Testing/Unit Test/Unit test method/assertFalse (x).md",
-    "Git/Как добавить файл в  Git Hub.md",
-    "Git/Команды Git/git add ..md",
-    "Git/Команды Git/git add file_name.md",
-    "Git/Команды Git/git commit -m \"Описание нашего комментария\".md",
-    "Git/Команды Git/git init ().md",
-    "Git/Команды Git/git push.md",
-    "Git/Команды Git/git status.md",
-    "Git/Начало работы в Git.md",
-    "Tasks from code vars/Given the triangle of consecutive odd numbers.md",
-    "2024-03-15.md",
-    "README.md",
-    "Testing/Assertions.md",
+    "Git/Git Branches/git branch --list.md",
+    "Git/Git Branches/git branch.md",
+    "Git/Git Basic/git status.md",
+    "Git/Git Basic/git push.md",
+    "Git/Git Basic/git log.md",
+    "Git/Undoing changes/git clean -n.md",
+    "Git/Git Cheat Sheet.md",
+    "Base/Start from Base.md",
     "OpenCV/OpenCV-python.md",
+    "Untitled.md",
+    "Testing/Unit Test/Unit test.md",
+    "Git/Remote repositories/git push remote branch.md",
+    "Git/Remote repositories/git pull remote.md",
+    "Git/Remote repositories/git fetch remote branch.md",
+    "Git/Remote repositories/git remote add name url.md",
+    "Git/Git Branches/git merge branch.md",
+    "Git/Git Branches/git checkout -b branch.md",
+    "Git/Rewriting git history/git reflog.md",
+    "Git/Rewriting git history/git rebase base.md",
+    "Git/Rewriting git history/git commit --amend.md",
+    "Git/Undoing changes/git reset file_name.md",
+    "Git/Undoing changes/git revert commit.md",
+    "Git/Git Basic/git diff.md",
+    "Git/Remote repositories",
+    "Git/Git Branches",
+    "Git/Rewriting git history",
+    "Git/Undoing changes",
+    "Git/Git Basic",
+    "Git/Git Basic/git commit -m \"Message\".md",
+    "Git/Начало работы в Git.md",
+    "Git/Как добавить файл в  Git Hub.md",
     "OpenCV/Функции OpenCV/HSVChangePicture.png",
     "OpenCV/Функции OpenCV/image.jpg",
     "Base/Type data in python/Type data in python.canvas",
@@ -203,11 +252,6 @@
     "Binary system",
     "Иinary system",
     "Testing/Unit Test",
-    "Testing/Unit Test/Unit test method",
-    "Testing",
-    "Base/Type data in python",
-    "OpenCV/Функции OpenCV",
-    "OpenCV",
-    "untitled folder"
+    "Testing/Unit Test/Unit test method"
   ]
 }

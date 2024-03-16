@@ -19,6 +19,3 @@
 
 [Ссылка для ознакомления](https://docs.python.org/3/library/unittest.html)
 
----
-# Фигурирует:
-*  Основная тема [[OpenCV-python]]
