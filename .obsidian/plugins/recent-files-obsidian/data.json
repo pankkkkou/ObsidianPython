@@ -1,100 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "git fetch remote branch",
-      "path": "Git/Remote repositories/git fetch remote branch.md"
-    },
-    {
-      "basename": "git remote add name url",
-      "path": "Git/Remote repositories/git remote add name url.md"
-    },
-    {
-      "basename": "git push remote branch",
-      "path": "Git/Remote repositories/git push remote branch.md"
-    },
-    {
-      "basename": "git pull remote",
-      "path": "Git/Remote repositories/git pull remote.md"
-    },
-    {
       "basename": "git merge branch",
       "path": "Git/Git Branches/git merge branch.md"
-    },
-    {
-      "basename": "git checkout -b branch_name",
-      "path": "Git/Git Branches/git checkout -b branch_name.md"
     },
     {
       "basename": "Git Cheat Sheet",
       "path": "Git/Git Cheat Sheet.md"
     },
     {
-      "basename": "git branch",
-      "path": "Git/Git Branches/git branch.md"
-    },
-    {
-      "basename": "git branch --list",
-      "path": "Git/Git Branches/git branch --list.md"
-    },
-    {
-      "basename": "git diff",
-      "path": "Git/Git Basic/git diff.md"
-    },
-    {
-      "basename": "git status",
-      "path": "Git/Git Basic/git status.md"
-    },
-    {
-      "basename": "git push",
-      "path": "Git/Git Basic/git push.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git/Git Basic/git log.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git/Git Basic/git init.md"
-    },
-    {
-      "basename": "git clone",
-      "path": "Git/Git Basic/git clone.md"
-    },
-    {
-      "basename": "git commit -m \"Message\"",
-      "path": "Git/Git Basic/git commit -m \"Message\".md"
-    },
-    {
-      "basename": "git add file_name",
-      "path": "Git/Git Basic/git add file_name.md"
-    },
-    {
-      "basename": "git add .",
-      "path": "Git/Git Basic/git add ..md"
-    },
-    {
-      "basename": "git config user.",
-      "path": "Git/Git Basic/git config user..md"
-    },
-    {
-      "basename": "Как добавить файл в  Git Hub",
-      "path": "Git/Как добавить файл в  Git Hub.md"
-    },
-    {
       "basename": "Start from Base",
       "path": "Base/Start from Base.md"
     },
     {
-      "basename": "OpenCV-python",
-      "path": "OpenCV/OpenCV-python.md"
-    },
-    {
-      "basename": "git clean -n",
-      "path": "Git/Undoing changes/git clean -n.md"
-    },
-    {
-      "basename": "Unit test",
-      "path": "Testing/Unit Test/Unit test.md"
+      "basename": "git config user.",
+      "path": "Git/Git Basic/git config user..md"
     },
     {
       "basename": "git reflog",
@@ -107,6 +27,102 @@
     {
       "basename": "git commit --amend",
       "path": "Git/Rewriting git history/git commit --amend.md"
+    },
+    {
+      "basename": "git remote add name_url",
+      "path": "Git/Remote repositories/git remote add name_url.md"
+    },
+    {
+      "basename": "git push remote  or branch",
+      "path": "Git/Remote repositories/git push remote  or branch.md"
+    },
+    {
+      "basename": "git pull remote",
+      "path": "Git/Remote repositories/git pull remote.md"
+    },
+    {
+      "basename": "git fetch branch_name",
+      "path": "Git/Remote repositories/git fetch branch_name.md"
+    },
+    {
+      "basename": "git checkout -b branch_name",
+      "path": "Git/Git Branches/git checkout -b branch_name.md"
+    },
+    {
+      "basename": "git checkout",
+      "path": "Git/Git Branches/git checkout.md"
+    },
+    {
+      "basename": "git branch -d",
+      "path": "Git/Git Branches/git branch -d.md"
+    },
+    {
+      "basename": "git branch --list",
+      "path": "Git/Git Branches/git branch --list.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git/Git Branches/git branch.md"
+    },
+    {
+      "basename": "git status",
+      "path": "Git/Git Basic/git status.md"
+    },
+    {
+      "basename": "git push",
+      "path": "Git/Git Basic/git push.md"
+    },
+    {
+      "basename": "git pull",
+      "path": "Git/Git Basic/git pull.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git/Git Basic/git log.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git/Git Basic/git init.md"
+    },
+    {
+      "basename": "git diff",
+      "path": "Git/Git Basic/git diff.md"
+    },
+    {
+      "basename": "git commit -m \"Message\"",
+      "path": "Git/Git Basic/git commit -m \"Message\".md"
+    },
+    {
+      "basename": "git clone",
+      "path": "Git/Git Basic/git clone.md"
+    },
+    {
+      "basename": "git add file_name",
+      "path": "Git/Git Basic/git add file_name.md"
+    },
+    {
+      "basename": "git add .",
+      "path": "Git/Git Basic/git add ..md"
+    },
+    {
+      "basename": "git fetch",
+      "path": "Git/Git Branches/git fetch.md"
+    },
+    {
+      "basename": "Как добавить файл в  Git Hub",
+      "path": "Git/Как добавить файл в  Git Hub.md"
+    },
+    {
+      "basename": "OpenCV-python",
+      "path": "OpenCV/OpenCV-python.md"
+    },
+    {
+      "basename": "git clean -n",
+      "path": "Git/Undoing changes/git clean -n.md"
+    },
+    {
+      "basename": "Unit test",
+      "path": "Testing/Unit Test/Unit test.md"
     },
     {
       "basename": "git reset file_name",
@@ -179,26 +195,6 @@
     {
       "basename": "Assertions",
       "path": "Testing/Assertions.md"
-    },
-    {
-      "basename": "First program with OpenCV",
-      "path": "OpenCV/First program with OpenCV.md"
-    },
-    {
-      "basename": "Read contours",
-      "path": "OpenCV/Read contours.md"
-    },
-    {
-      "basename": "COLOR_BGR2HSV",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md"
-    },
-    {
-      "basename": "COLOR_BGR2GRAY",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md"
-    },
-    {
-      "basename": "COLOR_BGR2LAB",
-      "path": "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md"
     }
   ],
   "omittedPaths": [],
