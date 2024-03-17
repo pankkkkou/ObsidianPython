@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Branches/git merge branch.md",
+                "file": "OpenCV/Read contours.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Branches/git merge branch.md",
+                "file": "OpenCV/Read contours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Branches/git merge branch.md",
+                "file": "OpenCV/Read contours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Branches/git merge branch.md"
+                "file": "OpenCV/Read contours.md"
               }
             }
           },
@@ -207,9 +207,23 @@
   },
   "active": "528d6dcd21ee80e3",
   "lastOpenFiles": [
+    "OpenCV/OpenCV-python.md",
+    "OpenCV/First program with OpenCV.md",
+    "OpenCV/Функции OpenCV/Transform.md",
+    "OpenCV/Функции OpenCV/set in CV.md",
+    "OpenCV/Функции OpenCV/Rotate.md",
+    "OpenCV/Функции OpenCV/resize.md",
+    "OpenCV/Функции OpenCV/image.jpg",
+    "OpenCV/Функции OpenCV/HSVChangePicture.png",
+    "OpenCV/Функции OpenCV/cvtColor.md",
+    "OpenCV/Функции OpenCV/COLOR_BGR2LAB.md",
+    "OpenCV/Функции OpenCV/COLOR_BGR2HSV.md",
+    "OpenCV/Функции OpenCV/COLOR_BGR2GRAY.md",
+    "OpenCV/Функции OpenCV/blur.md",
+    "OpenCV/Read contours.md",
+    "Git/Git Branches/git merge branch.md",
     "Git/Git Cheat Sheet.md",
     "Base/Start from Base.md",
-    "Git/Git Branches/git merge branch.md",
     "Git/Git Basic/git config user..md",
     "Git/Rewriting git history/git reflog.md",
     "Git/Rewriting git history/git rebase base.md",
@@ -220,26 +234,11 @@
     "Git/Remote repositories/git fetch branch_name.md",
     "Git/Git Branches/git checkout -b branch_name.md",
     "Git/Git Branches/git checkout.md",
-    "Git/Git Branches/git branch -d.md",
-    "Git/Git Branches/git branch --list.md",
-    "Git/Git Branches/git branch.md",
-    "Git/Git Basic/git status.md",
-    "Git/Git Basic/git push.md",
-    "Git/Git Basic/git pull.md",
-    "Git/Git Basic/git log.md",
-    "Git/Git Basic/git init.md",
-    "Git/Git Basic/git diff.md",
-    "Git/Git Basic/git commit -m \"Message\".md",
-    "Git/Git Basic/git clone.md",
-    "Git/Git Basic/git add file_name.md",
-    "Git/Git Basic/git add ..md",
     "Git/Remote repositories",
     "Git/Git Branches",
     "Git/Rewriting git history",
     "Git/Undoing changes",
     "Git/Git Basic",
-    "OpenCV/Функции OpenCV/HSVChangePicture.png",
-    "OpenCV/Функции OpenCV/image.jpg",
     "Base/Type data in python/Type data in python.canvas",
     "OpenCV/Rotate",
     "Binary system",
