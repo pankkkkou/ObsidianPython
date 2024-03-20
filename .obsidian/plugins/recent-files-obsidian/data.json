@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "git config user.",
+      "path": "Git/Git Basic/git config user..md"
+    },
+    {
+      "basename": "Git Cheat Sheet",
+      "path": "Git/Git Cheat Sheet.md"
+    },
+    {
+      "basename": "Start from Base",
+      "path": "Base/Start from Base.md"
+    },
+    {
       "basename": "Read contours",
       "path": "OpenCV/Read contours.md"
     },
@@ -59,18 +71,6 @@
     {
       "basename": "git merge branch",
       "path": "Git/Git Branches/git merge branch.md"
-    },
-    {
-      "basename": "Git Cheat Sheet",
-      "path": "Git/Git Cheat Sheet.md"
-    },
-    {
-      "basename": "Start from Base",
-      "path": "Base/Start from Base.md"
-    },
-    {
-      "basename": "git config user.",
-      "path": "Git/Git Basic/git config user..md"
     },
     {
       "basename": "git reflog",
